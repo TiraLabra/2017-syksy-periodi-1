@@ -4,9 +4,6 @@ Kaikki kurssidokumentaatio löytyy [wikistä](https://github.com/TiraLabra/2017-
 **Ohjaaja:**
 * Mauri Karlin (rovaniemi) karlin@cs.helsinki.fi, telegrammissa @rovaniemii
 
-**Kurssin IRC-kanava**:
-#tiralabra2017 @ IRCnet
-
 # Aikataulu
 
 Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) alapajassa **BK107**
