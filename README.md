@@ -6,6 +6,7 @@ Kaikki kurssidokumentaatio löytyy [wikistä](https://github.com/TiraLabra/2017-
 
 # Aikataulu
 
+Demotilaisuus **Torstaina 12.10 klo 16.15-18.00**
 Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) alapajassa **BK107**
 
 | Viikko | ma | ti | ke | to | pe | la | su |
@@ -15,7 +16,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 | **38**<br>18.09.-<br>24.09. |  |  |  |  | **Paja** BK107<br>16-19<br> |  | **DL 3**<br>23:59 |
 | **39**<br>25.09.-<br>01.10. |  |  |  |  | **Paja** BK107<br>16-19<br> |  | **DL 4**<br>23:59 |
 | **40**<br>02.10.-<br>08.10. |  |  |  |  | **Paja** BK107<br>16-19<br> |  | **DL 5**<br>23:59 |
-| **41**<br>09.10.-<br>15.10. |  |  |  |  | **Paja** BK107<br>16-19<br> |  | **DL 6**<br>23:59 |
+| **41**<br>09.10.-<br>15.10. |  |  |  |  **DEMO** | **Paja** BK107<br>16-19<br> |  | **DL 6**<br>23:59 |
 | **42**<br>16.10.-<br>22.10. |  |  |  |  | **Paja** BK107<br>16-19<br> |  | **DL Loppupalautus**<br>23:59 | 
 
 * **HUOM!** **Paja-ajat ja luokat saattavat muuttua kurssin aikana.**
